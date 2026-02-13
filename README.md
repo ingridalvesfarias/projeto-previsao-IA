@@ -28,4 +28,4 @@ O objetivo é facilitar o dia a dia das pessoas, oferecendo não só informaçõ
 - Chave de API do OpenWeatherMap (gratuita - disponível no site oficial)
 
 ### Como acessar
-Acesse aqui:
+Acesse aqui: https://projeto-previsao-do-tempo-ia.vercel.app/
