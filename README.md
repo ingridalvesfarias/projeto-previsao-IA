@@ -26,6 +26,3 @@ O objetivo é facilitar o dia a dia das pessoas, oferecendo não só informaçõ
 ### Pré-requisitos
 - Navegador compatível com Web Speech API (Chrome, Edge)
 - Chave de API do OpenWeatherMap (gratuita - disponível no site oficial)
-
-### Como acessar
-Acesse aqui: https://projeto-previsao-do-tempo-ia.vercel.app/
